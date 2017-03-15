@@ -1,9 +1,9 @@
 {
   "name": "json2csvconv",
-  "description": "JSON2CSV Converter",
+  "description": "JSON2CSV Online Converter",
   "main": "index.js",
   "authors": [
-    "Renato Rodrigues"
+    "Renato Rodrigues <renato.sp@gmail.com> (https://github.com/rerodrigues)"
   ],
   "license": "MIT",
   "keywords": [
@@ -11,7 +11,7 @@
     "csv",
     "converter"
   ],
-  "homepage": "",
+  "homepage": "https://json2csvconv.herokuapp.com/",
   "private": true,
   "ignore": [
     "**/.*",

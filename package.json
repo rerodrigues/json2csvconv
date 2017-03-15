@@ -1,10 +1,31 @@
 {
   "name": "json2csvconv",
   "version": "1.0.0",
+  "description": "JSON2CSV Online Converter",
   "private": true,
+  "license": "MIT",
+  "main": "index.js",
+  "homepage": "https://json2csvconv.herokuapp.com/",
+  "author": {
+      "name": "Renato Rodrigues",
+      "email": "renato.sp@gmail.com",
+      "url": "https://github.com/rerodrigues"
+  },
+  "keywords": [
+    "json",
+    "csv",
+    "converter"
+  ],
   "scripts": {
     "start": "node ./bin/www",
     "postinstall": "bower install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rerodrigues/json2csvconv.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rerodrigues/csv2jsonconv/issues"
   },
   "engines": {
     "node": "~6.9.5",
