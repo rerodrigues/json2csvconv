@@ -1,0 +1,22 @@
+files:
+  include: '**/*.s+(a|c)ss'
+
+options:
+  formatter: stylish
+  merge-default-rules: true
+rules:
+  class-name-format:
+    - 1
+    - convention: strictbem
+  id-name-format:
+    - 1
+    - convention: strictbem
+  no-css-comments: 0
+  placeholder-in-extend: 0
+  placeholder-name-format:
+    - 1
+    - convention: strictbem
+  property-sort-order: 0
+
+  force-pseudo-nesting: 0
+  force-element-nesting: 0
