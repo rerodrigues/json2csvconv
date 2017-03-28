@@ -4,7 +4,7 @@
   "description": "JSON2CSV Online Converter",
   "private": true,
   "license": "MIT",
-  "main": "index.js",
+  "main": "app.js",
   "homepage": "https://json2csvconv.herokuapp.com/",
   "author": {
       "name": "Renato Rodrigues",
