@@ -24,7 +24,7 @@
     "url": "git+ssh://git@github.com/rerodrigues/json2csvconv.git"
   },
   "bugs": {
-    "url": "https://github.com/rerodrigues/csv2jsonconv/issues"
+    "url": "https://github.com/rerodrigues/json2csvconv/issues"
   },
   "engines": {
     "node": "~6.9.5",
